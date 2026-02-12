@@ -1,0 +1,2 @@
+Mean Tuning Frequency: 442.38014982392957 Hz
+Mean Cents Offset: 9.323209314097697 cents

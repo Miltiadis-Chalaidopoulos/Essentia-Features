@@ -1,0 +1,13 @@
+{
+    "global_bpm": 139.22250366210938,
+    "bpm_mean_from_beats": 130.3237309546999,
+    "bpm_std_from_beats": 15.184643876236601,
+    "tempo_stability": 0.8834851967097632,
+    "inter_beat_interval_mean": 0.46737599013707576,
+    "inter_beat_interval_std": 0.060562676311117364,
+    "beat_density_per_second": 2.145091155132001,
+    "onset_density_per_second": 22.746463582466635,
+    "estimated_duration_from_beats": 182.27663615345955,
+    "num_beats": 391,
+    "num_onsets": 172
+}
